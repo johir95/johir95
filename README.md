@@ -1,3 +1,4 @@
+![logo](https://github.com/johir95/johir95/blob/main/Johir%20Raihan%20banner.png)
 <h1 align="center">Hi 👋, I'm Md.Johir Raihan</h1>
 <h3 align="center">A passionate VLSI Design from Bangladesh</h3>
 
