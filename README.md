@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md.Johir Raihan</h1>
 <h3 align="center">A passionate VLSI Design from Bangladesh</h3>
 
-<img align="right" alt="Chip Design" width="400" src="https://github.com/johir95/johir95/assets/90377555/b4afe233-f1c8-4dc1-93c4-56cac602f217"/></p>
+<img align="right" alt="Chip Design" width="400" src="https://scitechdaily.com/images/Electronic-Chip.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johir95&label=Profile%20views&color=0e75b6&style=flat" alt="johir95" /> </p>
 
