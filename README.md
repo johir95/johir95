@@ -1,1 +1,9 @@
-This is Johir Raihan, currently a fresh graduate in the Department of Electrical and Electronics Engineering (EEE) at Ahsanullah University of Science and Technology (AUST). I consider myself an enthusiastic, committed, and diligent individual with a passion for VLSI design, electronic-based projects, and the energy mix. Along with hard work and quick learning ability, I have excellent analytical and problem-solving qualities and am always eager to take on new challenges. As a self-driven person, I always aspire to work to the fullest of my abilities in a stimulating and demanding environment with a diverse group of people. I am always fond of completing any task efficiently through teamwork, communication, and research. 
+
+Here is what I am working on {" "} !👋
+I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Competitive Programming ,DSA,AI/ML,Software Development, Research works. Presently trying to acquire the skills of problem solving😄
+
+🔭 I’m currently working on ML/AI computer Vision
+💬 Actively using C++, Python and React
+📫 How to reach me: ahnaftahmidsaad.c@gmail.com
+⚡ Fun fact: I study Engineering.....
+-->
