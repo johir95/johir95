@@ -28,3 +28,29 @@
 <h3 align="left">Simulator:</h3>
 <p align="left"> <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank" rel="noreferrer"> <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.orcad.com/pspice" target="_blank" rel="noreferrer"> <img src="https://www.princeton.edu/~mae433/PICTURES/layout_pictures/layout1.gif" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://sovathrothsama.files.wordpress.com/2018/10/proteus.jpg?w=640" alt="cplusplus" width="40" height="40"/> </a> </p>
 
+
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank" rel="noreferrer"> <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.orcad.com/pspice" target="_blank" rel="noreferrer"> <img src="https://www.princeton.edu/~mae433/PICTURES/layout_pictures/layout1.gif" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://sovathrothsama.files.wordpress.com/2018/10/proteus.jpg?w=640" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Design Software:</h3>
+<p align="left"> <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank" rel="noreferrer"> <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.orcad.com/pspice" target="_blank" rel="noreferrer"> <img src="https://www.princeton.edu/~mae433/PICTURES/layout_pictures/layout1.gif" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://sovathrothsama.files.wordpress.com/2018/10/proteus.jpg?w=640" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Others:</h3>
+<p align="left"> <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank" rel="noreferrer"> <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.orcad.com/pspice" target="_blank" rel="noreferrer"> <img src="https://www.princeton.edu/~mae433/PICTURES/layout_pictures/layout1.gif" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://sovathrothsama.files.wordpress.com/2018/10/proteus.jpg?w=640" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Soft Skills:</h3>
+
+-  **Case Study**
+-  **Leadership.**
+-  **Time Management.**
+-  **Robotics.**
+
+<h3 align="left">Leadership Experiences:</h3>
+
+-  **Organizer Panel:** Tridib Uccash Picnic, AUST EEE Fest.
+-  **Program Coordinator:** EEE AUST Student Branch .
+-  **Cultural Coordinator:** AUST EEE Day.
+-  **Captain:** EEE Dept. Cricket Team, AUST Inter Department Cricket Championship.
+-  **IEEE Volunteer:** Reception Program for Prof. Saifur Rahman (IEEE President-Elect 2022).
