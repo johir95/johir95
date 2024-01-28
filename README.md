@@ -60,11 +60,7 @@ Limited </td>
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-johir-raihan-3b52601bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-johir-raihan-3b52601bb/" height="50" width="50" /> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/mdjohir.raihan.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjohir.raihan.10" height="50" width="50" /></a>
-</p>
+
 
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html" target="_blank" rel="noreferrer"> <img src="https://mms.businesswire.com/media/20230711319186/en/633339/22/Cadence_Logo_2_Reg_Black.jpg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.codeblocks.org" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20180514/we/kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" alt="cplusplus" width="50" height="50"/> </a> </p>
@@ -100,3 +96,11 @@ Limited </td>
 -  **Cultural Coordinator:** AUST EEE Day.
 -  **Captain:** EEE Dept. Cricket Team, AUST Inter Department Cricket Championship.
 -  **IEEE Volunteer:** Reception Program for Prof. Saifur Rahman (IEEE President-Elect 2022).
+  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-johir-raihan-3b52601bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-johir-raihan-3b52601bb/" height="50" width="50" /> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/mdjohir.raihan.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjohir.raihan.10" height="50" width="50" /></a>
+</p>
+
