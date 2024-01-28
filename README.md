@@ -51,6 +51,40 @@ Limited </td>
 
 
 
+<h2>Projects at a Glance:  </h2>
+
+<table style="width:100%">
+  <tr>
+    <th>S/N</th>
+    <th>Project Name</th>
+    <th>Relevent Tools</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td> SOC design of an Old MOS 6502 CPU in a Very Large Scale Integration System (45nm). </td>
+    <td>Cadence NCSim,ModelSim,
+    Cadence Genus,Cadance Encounter</td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td> Analog Design of a Combinational Logic Circuit of the 74181 Integrated Circuit (90nm).</td>
+    <td>Cadence Virtuoso, Cadence Virtuoso Layout Suit,
+      Cadence Assura</td>
+  </tr>
+  
+  <tr>
+      <td>3</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+
+  
+</table>
+
+
+
+
 
 
 
