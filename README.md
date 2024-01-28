@@ -37,7 +37,7 @@
 
 
 <h3 align="left">Others:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank" rel="noreferrer"> <img src="https://i.pngimg.me/thumb/f/350/comdlpng6948170.jpg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/original?v=v2&px=-1" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.orcad.com/pspice" target="_blank" rel="noreferrer"> <img src="https://www.princeton.edu/~mae433/PICTURES/layout_pictures/layout1.gif" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://sovathrothsama.files.wordpress.com/2018/10/proteus.jpg?w=640" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank" rel="noreferrer"> <img src="https://i.pngimg.me/thumb/f/350/comdlpng6948170.jpg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/original?v=v2&px=-1" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://www.itsolutions-inc.com/wp-content/uploads/2023/06/Animations_in_PowerPoint_Feature.jpg" alt="cplusplus" width="40" height="40"/> </a>  </p>
 
 
 <h3 align="left">Soft Skills:</h3>
@@ -45,7 +45,7 @@
 -  **Case Study**
 -  **Leadership.**
 -  **Time Management.**
--  **Robotics.**
+-  **Designer.**
 
 <h3 align="left">Leadership Experiences:</h3>
 
