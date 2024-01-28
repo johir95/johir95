@@ -75,10 +75,54 @@ Limited </td>
   
   <tr>
       <td>3</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Design a Current starved ring oscillator using Cadence Virtuoso (90nm)</td>
+    <td>Cadence Virtuoso, Cadence Virtuoso Layout Suit,
+      Cadence Assura</td>
   </tr>
 
+  <tr>
+      <td>4</td>
+    <td>Comparative Analysis of Different SRAM Circuits(6T,7T,8T) using Cadence Virtuoso (90nm). </td>
+    <td>Cadence Virtuoso, Cadence Virtuoso Layout Suit,
+      Cadence Assura</td>
+  </tr>
+
+ <tr>
+    <td>5</td>
+    <td>Designing of MPPT Solar Charge Controller and light dimmer using Arduino.</td>
+    <td>Protius</td>
+  </tr>
+
+ <tr>
+    <td>6</td>
+    <td>Bookshop Management System using C++</td>
+    <td>Codeblocks</td>
+  </tr>
+
+
+   <tr>
+    <td>7</td>
+    <td>Design of a Voltage Instability Protection Circuit.</td>
+    <td>Protius</td>
+  </tr>
+  
+   <tr>
+    <td>8</td>
+    <td>Voice Signal Processing using Matlab.</td>
+    <td>Matlab</td>
+  </tr>
+
+  <tr>
+    <td>9</td>
+    <td>Remote Control Car Using Arduino. </td>
+    <td>Arduino,Protius</td>
+  </tr>
+  
+ <tr>
+  <td>10</td>
+    <td>Design of Electrical and Electronic Circuits, Illustration of a 500 sq ft Flat and  Electrical Low Load Connection using Autocad. </td>
+    <td>Autocad</td>
+  </tr>
   
 </table>
 
