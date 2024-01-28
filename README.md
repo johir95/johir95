@@ -16,6 +16,50 @@
 
 - ⚡ Fun fact **I think i am Honest and diligent 😊**
 
+
+<h2>Professional Experiences : </h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Outcome</th>
+    <th>Institusions</th>
+    <th>Period</th>
+  </tr>
+  <tr>
+    <td>1. VLSI training program </td>
+    <td>Analog & Digital Circuit, Linux & 
+cutting-edge projects in the field of 
+VLSI and Industry experience </td>
+    <td>Neural 
+Semiconductor 
+Limited </td>
+     <td>July 10-14, 2023 
+(5 days) </td>
+  </tr>
+  <tr>
+    <td>2. VLSI training program</td>
+    <td>IC Mask Design , Digital Design, 
+Verification and Industry 
+experience</td>
+    <td>Ulkasemi Pvt. 
+Limited </td>
+    <td>July 20- Oct 26 ,2023 
+(7 days) </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-johir-raihan-3b52601bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-johir-raihan-3b52601bb/" height="50" width="50" /> </a> &nbsp;&nbsp;&nbsp;
