@@ -203,12 +203,55 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
 
 
 
+&nbsp;
+&nbsp;
 
 
 
 
+<h2 align="left">Core Courses:</h2>
 
+<table style="width:100%">
+  <tr>
+    <th> Electrical Circuits I & II </th>
+    <th>Electronics I & II</th>
+  </tr>
+  
+  <tr>
+    <td>Programming language (C++)</td>
+    <td>Energy Conversion I & II</td>
+  </tr>
+  
+  <tr>
+    <td>Digital Circuit I & II</td>
+    <td>Microprocessor, Interfacing & System Design</td>
+  </tr>
+  
+  <tr>
+    <td>Solid State Devices</td>
+    <td>Digital Signal Processing I</td>
+  </tr>
+  
+  <tr>
+    <td>Power Plant Engineering</td>
+    <td>Engineering Electromagnetics</td> 
+  </tr>
+   
+  <tr>
+    <td>Power Systems I & II</td>
+    <td>Control System I</td> 
+  </tr>
+  
+  <tr>
+    <td>Communication System</td>
+    <td>Power Electronics</td>
+  </tr>
 
+  <tr>
+    <td>VLSI I & II</td>
+    <td>Fabrication</td>
+  </tr>
+</table>
 
 
 
