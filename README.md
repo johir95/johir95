@@ -67,13 +67,15 @@
 
 <table style="width:100%">
   <tr>
+    <th>S/N</th>
     <th>Name</th>
     <th>Outcome</th>
     <th>Institusions</th>
     <th>Period</th>
   </tr>
   <tr>
-    <td>1. VLSI training program </td>
+    <td>1</td>
+    <td>VLSI training program </td>
     <td>Analog & Digital Circuit, Linux & 
 cutting-edge projects in the field of 
 VLSI and Industry experience </td>
@@ -84,7 +86,8 @@ Limited <p><a href="https://drive.google.com/file/d/1ViADw5aclZ4aIPVJn49svo2qh40
 (5 days) </td>
   </tr>
   <tr>
-    <td>2. VLSI training program</td>
+    <td>2</td>
+    <td>VLSI training program</td>
     <td>IC Mask Design , Digital Design, 
 Verification and Industry 
 experience</td>
