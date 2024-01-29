@@ -26,7 +26,7 @@
   <tr>
     <th>Category</th>
     <th>Institution</th>
-    <th>Board</th>
+    <th>Board/University</th>
     <th>GPA/CGPA</th>
      <th>Passing Year</th>
   </tr>
@@ -48,7 +48,7 @@
   <tr>
     <td>B.Sc</td>
     <td>Ahsanullah University of Science and Technology, AUST</td>
-    <td>University Grants Commission (UGC)</td>
+    <td>Ahsanullah University of Science and Technology, AUST</td>
     <td>3.5/4</td>
     <td>2023</td>
   </tr>
