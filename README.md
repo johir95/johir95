@@ -176,6 +176,30 @@ Limited </td>
 
 
 
+&nbsp;
+&nbsp;
+
+
+
+<h2 align="left">Research Experience:</h2>
+<h3 align="left">Undergraduate Research:</h3>
+
+-  ***Thesis Title :*** “ Determining the Optimal Energy Mix for Future Power Generation of Bangladesh” 
+ <br> -  ***Supervisor :*** [Dr. Tareq Aziz (Professor and Head in AUST EEE Department)](https://www.aust.edu/eee/faculty_member/prof_dr_tareq_aziz).  </br>
+
+&nbsp;
+
+<h3 align="left">Publication:</h3>  
+
+
+-  ***Title :*** “Design and Modeling of a Wind-PV and Battery Integrated Hybrid Generation System in Bangladesh”
+      <br> <i> - (Under Review at iCACCESS 2024 Conference). </i> </br>
+
+-  ***Title :*** "An Overview of the Impact of Social Media Usage on Supply Chain and Customers in Bangladesh”
+      <br> <i> - (Supply Chain Insider, Vol.7 No.1) [Paper Link](https://supplychaininsider.org/ojs/index.php/home/article/view/7). </i> </br>
+
+
+
 
 
 
@@ -257,21 +281,6 @@ Limited </td>
 &nbsp;
 &nbsp;
 &nbsp;
-
-
-<h2 align="left">Research Experience:</h2>
-<h3 align="left">Undergraduate Research:</h3>
-
--  ***Thesis Title :*** “ Determining the Optimal Energy Mix for Future Power Generation of Bangladesh” 
- <br> -  ***Supervisor :*** [Dr. Tareq Aziz (Professor and Head in AUST EEE Department)](https://www.aust.edu/eee/faculty_member/prof_dr_tareq_aziz).  </br>
-
-&nbsp;
-
-<h3 align="left">Publication:</h3>  
-
-
--  ***Title :*** “Design and Modeling of a Wind-PV and Battery Integrated Hybrid Generation System in Bangladesh”
-      <br> <i> - (Under Review at iCACCESS 2024 Conference). </i> </br>
 
 
 
