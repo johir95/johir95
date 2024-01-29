@@ -20,6 +20,49 @@
 &nbsp;
 &nbsp;
 
+<h2>Educational Background:</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Category</th>
+    <th>Institution</th>
+    <th>Board</th>
+    <th>GPA/CGPA</th>
+     <th>Passing Year</th>
+  </tr>
+  <tr>
+    <td>SSC</td>
+    <td>Shibpur Pilot Model High School</td>
+    <td>Dhaka</td>
+    <td>5.00/5</td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>HSC</td>
+    <td>Abdul Kadir Mollah City College </td>
+    <td>Dhaka</td>
+    <td>4.83/5</td>
+    <td>2017</td>
+  </tr>
+
+  <tr>
+    <td>B.Sc</td>
+    <td>Ahsanullah University of Science and Technology, AUST</td>
+    <td>University Grants Commission (UGC)</td>
+    <td>3.5/4</td>
+    <td>2023</td>
+  </tr>
+
+  
+</table>
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
 <h2>Professional Experiences : </h2>
 
 <table style="width:100%">
