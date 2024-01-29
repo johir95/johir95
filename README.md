@@ -1,6 +1,6 @@
 ![logo](https://github.com/johir95/johir95/blob/main/Johir%20Raihan%20banner.png)
 <h1 align="center">Hi 👋, I'm Md.Johir Raihan</h1>
-<h3 align="center">A passionate VLSI Design from Bangladesh</h3>
+<h3 align="center">I am passionate about VLSI Design from Bangladesh.</h3>
 
 <img align="right" alt="Chip Design" width="400" src="https://scitechdaily.com/images/Electronic-Chip.gif">
 
