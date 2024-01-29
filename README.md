@@ -212,44 +212,49 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
 <h2 align="left">Core Courses:</h2>
 
 <table style="width:100%">
-  <tr>
-    <th> Electrical Circuits I & II </th>
-    <th>Electronics I & II</th>
+    <tr>
+    <th>Course Names </th>
+    <th>Course Names </th>
   </tr>
   
   <tr>
-    <td>Programming language (C++)</td>
-    <td>Energy Conversion I & II</td>
+    <td> <i>Electrical Circuits I & II</i> </td>
+    <td> <i>Electronics I & II</i></td>
   </tr>
   
   <tr>
-    <td>Digital Circuit I & II</td>
-    <td>Microprocessor, Interfacing & System Design</td>
+    <td> <i>Programming language (C++)</i></td>
+    <td> <i>Energy Conversion I & II</i>i></td>
   </tr>
   
   <tr>
-    <td>Solid State Devices</td>
-    <td>Digital Signal Processing I</td>
+    <td> <i>Digital Circuit I & II</i></td>
+    <td> <i>Microprocessor, Interfacing & System Design</i></td>
   </tr>
   
   <tr>
-    <td>Power Plant Engineering</td>
-    <td>Engineering Electromagnetics</td> 
+    <td> <i>Solid State Devices </i></td>
+    <td> <i>Digital Signal Processing I </i></td>
+  </tr>
+  
+  <tr>
+    <td> <i>Power Plant Engineering </i></td>
+    <td> <i>Engineering Electromagnetics </i></td> 
   </tr>
    
   <tr>
-    <td>Power Systems I & II</td>
-    <td>Control System I</td> 
+    <td><i>Power Systems I & II </i></td>
+    <td><i>Control System I </i></td> 
   </tr>
   
   <tr>
-    <td>Communication System</td>
-    <td>Power Electronics</td>
+    <td><i>Communication System </i></td>
+    <td><i>Power Electronics </i></td>
   </tr>
 
   <tr>
-    <td>VLSI I & II</td>
-    <td>Fabrication</td>
+    <td><i>VLSI I & II </i></td>
+    <td><i>Fabrication </i></td>
   </tr>
 </table>
 
