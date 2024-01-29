@@ -146,31 +146,36 @@ Limited </td>
 &nbsp;
 &nbsp;
 
-<h2 align="left">Tools:</h2>
+<h2 align="left">Technical Skills:</h2>
+&nbsp;
+&nbsp;
+
+<img align="right" alt="Chip Design" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
+<h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html" target="_blank" rel="noreferrer"> <img src="https://mms.businesswire.com/media/20230711319186/en/633339/22/Cadence_Logo_2_Reg_Black.jpg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.codeblocks.org" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20180514/we/kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" alt="cplusplus" width="50" height="50"/> </a> </p>
 
 &nbsp;
 &nbsp;
 
-<h2 align="left">Simulator:</h2>
+<h3 align="left">Simulator:</h3>
 <p align="left"> <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank" rel="noreferrer"> <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.orcad.com/pspice" target="_blank" rel="noreferrer"> <img src="https://www.princeton.edu/~mae433/PICTURES/layout_pictures/layout1.gif" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://sovathrothsama.files.wordpress.com/2018/10/proteus.jpg?w=640" alt="cplusplus" width="50" height="50"/> </a> </p>
 
 &nbsp;
 &nbsp;
 
-<h2 align="left">Languages:</h2>
+<h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.chipverify.com/tutorials/verilog" target="_blank" rel="noreferrer"> <img src="https://img-blog.csdnimg.cn/9dd04aad5108456183ee2be5e47e15ee.jpeg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/329880306/original/86f1c23dd821b7557ad852d0f312b0fa361f9c82/create-custom-c-plus-plus-programs-and-projects-for-you.jpg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/johir95/johir95/assets/90377555/8196c83d-9fac-4320-9ed1-31852395fd0c" alt="cplusplus" width="50" height="50"/> </a>  </p>
 
 &nbsp;
 &nbsp;
 
-<h2 align="left">Design Software:</h2>
+<h3 align="left">Design Software:</h3>
 <p align="left"> <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://www.okan.edu.tr/uploads/c_1920x760/slider/matlab-simulink/mlsl-12062018.jpg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt1Xm-3lr2v5yRPzTotEPhuP_AGuoyaKFTBJ5cnfPkc-iO82aMDca1jdZsdWggg-n_ciU&usqp=CAU" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2021/02/Illustrator-Logo-Vector.jpg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;  </p>
 
 &nbsp;
 &nbsp;
 
-<h2 align="left">Others:</h2>
+<h3 align="left">Others:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank" rel="noreferrer"> <img src="https://i.pngimg.me/thumb/f/350/comdlpng6948170.jpg" alt="cplusplus" width="50" height="50"  /> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/original?v=v2&px=-1" alt="cplusplus" width="50" height="50"  />  </a> &nbsp;&nbsp;&nbsp; 
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://www.itsolutions-inc.com/wp-content/uploads/2023/06/Animations_in_PowerPoint_Feature.jpg" alt="cplusplus" width="50" height="50"/> </a>  </p>
@@ -178,7 +183,7 @@ Limited </td>
 &nbsp;
 &nbsp;
 
-<h2 align="left">Soft Skills:</h2>
+<h3 align="left">Soft Skills:</h3>
 
 -  **Case Study**
 -  **Leadership.**
