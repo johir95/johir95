@@ -311,6 +311,20 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
 &nbsp;
 
 
+<h2 align="left">Professional Affiliations:</h2>
+
+-  **Institute of Electrical and Electronics Engineers (IEEE)** <i> - Membership ID: 97917887 </i> 
+-  **IEEE SPS and ComSoc Joint Student Branch Chapter.** 
+-  **AUST Innovation & Design Club.** 
+-  **AUST Research Club.** 
+-  **AUST Career Development Club.**
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -318,11 +332,16 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
 <a href="https://fb.com/mdjohir.raihan.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjohir.raihan.10" height="50" width="50" /></a>
 </p>
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
-
-
+<h1 align="center">Happy New Year 2024!🎉</h1>
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
