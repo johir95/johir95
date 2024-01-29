@@ -258,9 +258,55 @@ Limited </td>
 &nbsp;
 &nbsp;
 
+
+<h2 align="left">Research Experience:</h2>
+<h3 align="left">Undergraduate Research:</h3>
+
+-  ***Thesis Title :*** “ Determining the Optimal Energy Mix for Future Power Generation of Bangladesh” 
+ <br> -  ***Supervisor :*** [Dr. Tareq Aziz (Professor and Head in AUST EEE Department)](https://www.aust.edu/eee/faculty_member/prof_dr_tareq_aziz).  </br>
+
+&nbsp;
+
+<h3 align="left">Publication:</h3>  
+
+
+-  ***Title :*** “Design and Modeling of a Wind-PV and Battery Integrated Hybrid Generation System in Bangladesh”
+      <br> <i> - (Under Review at iCACCESS 2024 Conference). </i> </br>
+
+
+
+
+
+
+
+
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-johir-raihan-3b52601bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-johir-raihan-3b52601bb/" height="50" width="50" /> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/mdjohir.raihan.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjohir.raihan.10" height="50" width="50" /></a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
