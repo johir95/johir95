@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mdjohirraihan195@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x8PMap0GK-i1CGegsWKBu6JHbcEUFFgx/view?usp=sharing](https://drive.google.com/file/d/1x8PMap0GK-i1CGegsWKBu6JHbcEUFFgx/view?usp=sharing)
+- 📄 My website [https://sites.google.com/view/johirraihan/home?authuser=0](https://sites.google.com/view/johirraihan/home?authuser=0).
 
 - ⚡ Fun fact **I think i am Honest and diligent 😊**
 
