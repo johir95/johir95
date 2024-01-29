@@ -188,7 +188,7 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
 
 
 
-<h2 align="left">Research Experience:</h2>
+<h2 align="left">Research Experiences:</h2>
 <h3 align="left">Undergraduate Research:</h3>
 
 -  ***Thesis Title :*** “ Determining the Optimal Energy Mix for Future Power Generation of Bangladesh” 
@@ -196,7 +196,7 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
 
 &nbsp;
 
-<h3 align="left">Publication:</h3>  
+<h3 align="left">Publications:</h3>  
 
 
 -  ***Title :*** “Design and Modeling of a Wind-PV and Battery Integrated Hybrid Generation System in Bangladesh”
