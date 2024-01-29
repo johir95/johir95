@@ -20,7 +20,7 @@
 &nbsp;
 &nbsp;
 
-<h2>Educational Background:</h2>
+ <h2>Educational Background:</h2>
 
 <table style="width:100%">
   <tr>
@@ -279,7 +279,7 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
 &nbsp;
 &nbsp;
 
-<h3 align="left">Simulator:</h3>
+<h3 align="left">Simulators:</h3>
 <p align="left"> <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank" rel="noreferrer"> <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.orcad.com/pspice" target="_blank" rel="noreferrer"> <img src="https://www.princeton.edu/~mae433/PICTURES/layout_pictures/layout1.gif" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://sovathrothsama.files.wordpress.com/2018/10/proteus.jpg?w=640" alt="cplusplus" width="50" height="50"/> </a> </p>
 
 &nbsp;
