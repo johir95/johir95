@@ -164,6 +164,8 @@ Limited </td>
 &nbsp;
 
 <h3 align="left">Languages:</h3>
+<img align="right" alt="Chip Design" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+
 <p align="left"> <a href="https://www.chipverify.com/tutorials/verilog" target="_blank" rel="noreferrer"> <img src="https://img-blog.csdnimg.cn/9dd04aad5108456183ee2be5e47e15ee.jpeg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/329880306/original/86f1c23dd821b7557ad852d0f312b0fa361f9c82/create-custom-c-plus-plus-programs-and-projects-for-you.jpg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/johir95/johir95/assets/90377555/8196c83d-9fac-4320-9ed1-31852395fd0c" alt="cplusplus" width="50" height="50"/> </a>  </p>
 
 &nbsp;
@@ -175,6 +177,7 @@ Limited </td>
 &nbsp;
 &nbsp;
 
+
 <h3 align="left">Others:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank" rel="noreferrer"> <img src="https://i.pngimg.me/thumb/f/350/comdlpng6948170.jpg" alt="cplusplus" width="50" height="50"  /> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/original?v=v2&px=-1" alt="cplusplus" width="50" height="50"  />  </a> &nbsp;&nbsp;&nbsp; 
@@ -182,7 +185,7 @@ Limited </td>
 
 &nbsp;
 &nbsp;
-
+<img align="right" alt="Chip Design" width="400" height="250" src="https://cdn.dribbble.com/users/1434281/screenshots/6730784/illustration.gif">
 <h3 align="left">Soft Skills:</h3>
 
 -  **Case Study**
@@ -192,11 +195,15 @@ Limited </td>
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+
 
 <h2 align="left">Leadership Experiences:</h2>
-
 &nbsp;
-<img align="right" alt="[Chip Design" width="400" src="https://img0bm.b8cdn.com/images/resources/wysiwyg-img/answerimg_Xdl7tH1i.gif">
+
+<img align="right" alt="[Chip Design" width="400" height="250" src="https://img0bm.b8cdn.com/images/resources/wysiwyg-img/answerimg_Xdl7tH1i.gif">
+
 -  **Organizer Panel:** Tridib Uccash Picnic, AUST EEE Fest.
 -  **Program Coordinator:** EEE AUST Student Branch .
 -  **Cultural Coordinator:** AUST EEE Day.
