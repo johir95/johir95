@@ -79,7 +79,7 @@ cutting-edge projects in the field of
 VLSI and Industry experience </td>
     <td>Neural 
 Semiconductor 
-Limited </td>
+Limited <p><a href="https://drive.google.com/file/d/1ViADw5aclZ4aIPVJn49svo2qh40JnsFl/view?usp=drive_link">Certificate</a></p>   </td>
      <td>July 10-14, 2023 
 (5 days) </td>
   </tr>
@@ -89,7 +89,7 @@ Limited </td>
 Verification and Industry 
 experience</td>
     <td>Ulkasemi Pvt. 
-Limited </td>
+Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_l0t8e/view?usp=sharing">Certificate</a></p>   </td>
     <td>July 20- Oct 26 ,2023 
 (7 days) </td>
   </tr>
