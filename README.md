@@ -195,12 +195,16 @@ Limited </td>
 
 <h2 align="left">Leadership Experiences:</h2>
 
+&nbsp;
+<img align="right" alt="[Chip Design" width="400" src="https://img0bm.b8cdn.com/images/resources/wysiwyg-img/answerimg_Xdl7tH1i.gif">
 -  **Organizer Panel:** Tridib Uccash Picnic, AUST EEE Fest.
 -  **Program Coordinator:** EEE AUST Student Branch .
 -  **Cultural Coordinator:** AUST EEE Day.
 -  **Captain:** EEE Dept. Cricket Team, AUST Inter Department Cricket Championship.
 -  **IEEE Volunteer:** Reception Program for Prof. Saifur Rahman (IEEE President-Elect 2022).
   
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
