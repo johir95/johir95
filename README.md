@@ -266,6 +266,12 @@ Limited </td>
 &nbsp;
 
 
+
+
+
+
+
+
 <h2 align="left">Leadership Experiences:</h2>
 &nbsp;
 
@@ -282,11 +288,24 @@ Limited </td>
 &nbsp;
 &nbsp;
 
+<h2 align="left">Honors & Awards:</h2>
+
+-  **BIHRM Supply Chain Research Challenge 2.0** <i> (Finalist) </i>
+ <br> <i>- (Research Competition).</i> </br> 
+-  **MindSparks 22: An Inter-University and College Tech/Biz Competition.** <i> (Finalist) </i>
+<br> <i> - (Business Case Competition). </i> </br> 
+ -  **ALESHA AGRO PRESENTS'BRANDRILL 4.0'POWERED BY ALESHA PHARMACY.** <i> (Semi-Finalist) </i>
+<br> <i> - (Business Case Competition). </i> </br> 
+-   **SAVSOL LUBRICANTS PRESENTS CONNECT.** <i> (Semi-Finalist) </i>
+<br> <i> - (Business Case Competition). </i> </br> 
 
 
 
 
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
