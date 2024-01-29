@@ -24,6 +24,7 @@
 
 <table style="width:100%">
   <tr>
+    <th>S/N</th>
     <th>Category</th>
     <th>Institution</th>
     <th>Board/University</th>
@@ -31,6 +32,7 @@
      <th>Passing Year</th>
   </tr>
   <tr>
+    <td>1</td>
     <td>SSC</td>
     <td>Shibpur Pilot Model High School</td>
     <td>Dhaka</td>
@@ -38,6 +40,7 @@
     <td>2015</td>
   </tr>
   <tr>
+    <td>2</td>
     <td>HSC</td>
     <td>Abdul Kadir Mollah City College </td>
     <td>Dhaka</td>
@@ -46,6 +49,7 @@
   </tr>
 
   <tr>
+    <td>3</td>
     <td>B.Sc</td>
     <td>Ahsanullah University of Science and Technology, AUST</td>
     <td>Ahsanullah University of Science and Technology, AUST</td>
