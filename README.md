@@ -159,7 +159,7 @@ Limited </td>
 &nbsp;
 
 <h2 align="left">Languages:</h2>
-<p align="left"> <a href="https://www.chipverify.com/tutorials/verilog" target="_blank" rel="noreferrer"> <img src="https://img-blog.csdnimg.cn/9dd04aad5108456183ee2be5e47e15ee.jpeg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/329880306/original/86f1c23dd821b7557ad852d0f312b0fa361f9c82/create-custom-c-plus-plus-programs-and-projects-for-you.jpg" alt="cplusplus" width="50" height="50"/> </a>  </p>
+<p align="left"> <a href="https://www.chipverify.com/tutorials/verilog" target="_blank" rel="noreferrer"> <img src="https://img-blog.csdnimg.cn/9dd04aad5108456183ee2be5e47e15ee.jpeg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/329880306/original/86f1c23dd821b7557ad852d0f312b0fa361f9c82/create-custom-c-plus-plus-programs-and-projects-for-you.jpg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/johir95/johir95/assets/90377555/8196c83d-9fac-4320-9ed1-31852395fd0c" alt="cplusplus" width="50" height="50"/> </a>  </p>
 
 &nbsp;
 &nbsp;
