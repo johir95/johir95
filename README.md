@@ -197,10 +197,15 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
 &nbsp;
 
 <h3 align="left">Publications:</h3>  
-
+-  ***Title :*** “Simulation and optimization of a Concentrating Solar Power Plant with Thermal Energy Storage in 
+Dinajpur city by using System Advisor Model (SAM)  ”
+      <br> <i> - (Under review at ICISET 2024 Conference). </i> </br>
+      
+-  ***Title :*** “Full-Chip Design of a 6502 CPU Using Verilog HDL in 45nm CMOS Technology and Implementation in Genus and Encounter ”
+      <br> <i> - (Under review at PEEIACON 2024 Conference). </i> </br>
 
 -  ***Title :*** “Design and Modeling of a Wind-PV and Battery Integrated Hybrid Generation System in Bangladesh”
-      <br> <i> - (Under Review at iCACCESS 2024 Conference). </i> </br>
+      <br> <i> - (Paper accepted at iCAEEE 2024 Conference). </i> </br>
 
 -  ***Title :*** "An Overview of the Impact of Social Media Usage on Supply Chain and Customers in Bangladesh”
       <br> <i> - (Supply Chain Insider, Vol.7 No.1) [Paper Link](https://supplychaininsider.org/ojs/index.php/home/article/view/7). </i> </br>
