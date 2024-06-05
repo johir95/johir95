@@ -198,7 +198,7 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
 
 <h3 align="left">Publications:</h3>  
 -  ***Title :*** “Simulation and optimization of a Concentrating Solar Power Plant with Thermal Energy Storage in Dinajpur city by using 
-                    System Advisor Model (SAM)  ”
+                    System Advisor Model (SAM)”
       <br> <i> - (Under review at ICISET 2024 Conference). </i> </br>
       
 -  ***Title :*** “Full-Chip Design of a 6502 CPU Using Verilog HDL in 45nm CMOS Technology and Implementation in Genus and Encounter ”
