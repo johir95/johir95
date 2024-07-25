@@ -207,10 +207,10 @@ Limited <p><a href="https://drive.google.com/file/d/1gcHOio7A0WvduSV92IDJHYb0Ew_
       <br> <i> - (Under review at PEEIACON 2024 Conference). </i> </br>
 
 -  ***Title :*** “Design and Modeling of a Wind-PV and Battery Integrated Hybrid Generation System in Bangladesh”
-      <br> <i> - (Paper accepted at iCAEEE 2024 Conference). </i> </br>
+      <br> <i> - (2024 3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE), pp. 1-6. IEEE, 2024.) [Paper Link](https://ieeexplore.ieee.org/abstract/document/10561884) </i> </br>
 
 -  ***Title :*** "An Overview of the Impact of Social Media Usage on Supply Chain and Customers in Bangladesh”
-      <br> <i> - (Supply Chain Insider, Vol.7 No.1) [Paper Link](https://supplychaininsider.org/ojs/index.php/home/article/view/7). </i> </br>
+      <br> <i> - (Supply Chain Insider, Vol.7 No.1) [Paper Link](https://supplychaininsider.org/ojs/index.php/home/article/view/7) </i> </br>
 
 
 
